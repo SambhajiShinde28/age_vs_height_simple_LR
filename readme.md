@@ -44,24 +44,24 @@ Different regression techniques were tested (Linear & Nonlinear), and the most a
      ```bash
        git clone https://github.com/<your-username>/age_vs_height_simple_LR.git
        cd age_vs_height_simple_LR
-    ```
+     ```
 
   2. Create and activate a virtual environment:
      ```bash
      python -m venv venv
      source venv/bin/activate   # On Linux/Mac
      venv\Scripts\activate      # On Windows
-    ```
+     ```
 
   3. Install dependencies:
      ```bash
      pip install -r requirements.txt
-    ```
+     ```
 
   4. Run the Streamlit app:
      ```bash
      streamlit run main.py
-    ```
+     ```
 
 ## 📌 Future Enhancements
 
